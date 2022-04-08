@@ -5,4 +5,4 @@
 <p align="center">Click on a badge to learn more.</p>
 
 
-                                              Idle Achievement Farmer
+                                                      Idle Achievement Farmer
