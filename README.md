@@ -10,7 +10,7 @@
 <p align="center">Click on a badge to learn more.</p>
 
 
-                                              Idle Steam Achievement Farmer
+                                           Idle Steam Achievement Farmer
 
 
 <p align="center">
