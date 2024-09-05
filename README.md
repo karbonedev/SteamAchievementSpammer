@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <a href="https://cdn.discordapp.com/attachments/1046903573675511829/1055949335482880041/photoo.png" target="blank"><img src="https://cdn.discordapp.com/attachments/1046903573675511829/1055949335482880041/photoo.png" alt="Nest Logo" /></a>
+  <a href="https://cdn.discordapp.com/attachments/1046903573675511829/1055949335482880041/photoo.png" target="blank"><img src="https://cdn.discordapp.com/attachments/883857657839104041/1281333890975268864/E4p0noW.png?ex=66db56ad&is=66da052d&hm=0b59799ed3383873c49f9e4bde6d801b8ce8567a5f11b034b132d4bbe757b422&" alt="Nest Logo" /></a>
 </p>
 
 ## Stay in touch
