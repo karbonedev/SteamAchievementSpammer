@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/Karbone-DEV/SteamAchievementSpammer" target="blank"><img src="https://cdn.discordapp.com/attachments/1046903573675511829/1055946927855902780/image-removebg-preview.png" width="120" alt="S Logo" /></a>
+  <a href="https://github.com/Karbone-DEV/SteamAchievementSpammer" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Steam_2016_logo_black.svg/295px-Steam_2016_logo_black.svg.png?20210923141018" width="120" alt="S Logo" /></a>
 </p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -19,4 +19,4 @@
 
 ## Stay in touch
 
-* Author - [@KarboneChad](https://twitter.com/KarboneChad)
+* Author - [@KarboneChad]
